@@ -1,6 +1,6 @@
 # A URL shortener tool
 
-This is a URL shortener tool using Nodejs, Expressjs, Mongoose and other Pakages
+This is a URL shortener tool using Nodejs, Expressjs, Mongoose and other Packages
 
 ### Key achievements:
 - :whale:Used Docker to separate the server from the database.
